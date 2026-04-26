@@ -1,0 +1,48 @@
+Name,Category,Price,EcoScore,Organic,Recyclable
+Aloe Vera Body Wash,Personal Care,220,8,Yes,Yes
+Charcoal Face Cleanser,Personal Care,180,7,No,Yes
+Herbal Toothpaste Neem,Personal Care,140,9,Yes,Yes
+Fluoride Toothpaste Regular,Personal Care,120,5,No,No
+Bamboo Bath Towel,Clothes,650,9,Yes,Yes
+Microfiber Bath Towel,Clothes,400,6,No,Yes
+Organic Cotton Shirt,Clothes,1200,9,Yes,Yes
+Polyester Sports T-Shirt,Clothes,700,4,No,No
+Recycled Paper Tissue Pack,Household,110,8,Yes,Yes
+Virgin Paper Tissue Pack,Household,90,5,No,No
+Eco Dishwashing Liquid,Household,210,8,Yes,Yes
+Chemical Dish Cleaner,Household,160,4,No,No
+Bamboo Toothbrush,Personal Care,90,10,Yes,Yes
+Plastic Toothbrush,Personal Care,40,2,No,No
+Handmade Soap Lavender,Personal Care,130,9,Yes,Yes
+Synthetic Soap Bar,Personal Care,50,3,No,No
+Wooden Home Decor Frame,Home Decor,850,8,Yes,Yes
+Plastic Decorative Vase,Home Decor,500,3,No,No
+LED Energy Saving Bulb,Home Decor,300,7,No,Yes
+Incandescent Bulb,Home Decor,120,2,No,No
+Organic Green Tea,Food,250,9,Yes,Yes
+Instant Noodles Pack,Food,60,3,No,No
+Cold Pressed Coconut Oil,Food,450,9,Yes,Yes
+Refined Cooking Oil,Food,220,5,No,No
+Reusable Water Bottle Steel,Household,600,9,Yes,Yes
+Single Use Plastic Bottle,Household,20,1,No,No
+Eco Laundry Detergent,Household,350,8,Yes,Yes
+Chemical Detergent Powder,Household,280,4,No,No
+Organic Honey,Food,500,9,Yes,Yes
+Artificial Flavored Syrup,Food,180,3,No,No
+Jute Shopping Bag,Household,200,10,Yes,Yes
+Plastic Carry Bag,Household,10,1,No,No
+Natural Loofah Scrubber,Personal Care,150,9,Yes,Yes
+Synthetic Scrubber,Personal Care,70,3,No,No
+Clay Water Bottle,Home Decor,700,8,Yes,Yes
+Plastic Water Jug,Home Decor,250,3,No,No
+Herbal Soap,Personal Care,120,8,Yes,Yes
+Chemical Soap,Personal Care,60,3,No,No
+
+Cotton Towel,Clothes,500,7,Yes,Yes
+Plastic Decor Item,Home Decor,700,2,No,No
+Dish Cleaner Eco,Household,250,8,Yes,Yes
+Tissue Paper Recycled,Household,100,7,Yes,Yes
+Organic Cotton T-Shirt,Clothes,499,9,Yes,Yes
+Bamboo Fabric T Shirt,Clothes,699,8,Yes,Yes
+Eco Printed T-Shirt,Clothes,399,7,No,Yes
+Sustainable Casual T-Shirt,Clothes,599,8,Yes,Yes
